@@ -16,18 +16,18 @@ os.makedirs(REPORT_DIR, exist_ok=True)
 
 # Color scheme
 COLORS = {
-    'profit': '#10b981',  # Green
-    'loss': '#ef4444',  # Red
-    'systematic': '#10b981',  # Green
-    'emotional': '#ef4444',  # Red
-    'learning': '#f59e0b',  # Orange/Yellow
-    'neutral': '#6b7280',  # Gray
+    'profit': '#10b981',
+    'loss': '#ef4444',
+    'systematic': '#10b981',
+    'emotional': '#ef4444',
+    'learning': '#f59e0b',
+    'neutral': '#6b7280',
     'kotak_derivative': '#10b981',
     'kotak_commodity': '#ef4444',
     'groww_derivative': '#f59e0b',
-    'background': '#1f2937',  # Dark gray
-    'text': '#f9fafb',  # Light gray
-    'grid': '#374151'  # Medium gray
+    'background': '#1f2937',
+    'text': '#f9fafb',
+    'grid': '#374151'
 }
 
 # Chart styling
@@ -254,6 +254,13 @@ HTML_STYLE = """
 
 # Months order
 MONTHS_ORDER = ['Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct']
+
+# Quarter definitions
+QUARTERS = {
+    'Q1': ['Apr', 'May', 'Jun'],
+    'Q2': ['Jul', 'Aug', 'Sep'],
+    'Q3': ['Oct']
+}
 
 # Currency formatting
 CURRENCY_SYMBOL = '₹'
