@@ -1,13 +1,13 @@
 # Derivatives Trading Performance Dashboard
 
-## 🚀 Professional Trading Analytics for Axxela Interview
+## Professional Trading Analytics for Axxela Interview
 ### **Kotak Neo Derivatives Only - Clean, Systematic Trading Story**
 
 A comprehensive Python-based derivatives trading performance dashboard that analyzes your FY 2025-26 Kotak Neo derivatives data, visualizes your evolution from learning phase to systematic trading, and generates a professional HTML report perfect for your Trainee Analyst interview.
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This dashboard tells your **CLEAN** derivatives trading story:
 - **Q1 (Apr-Jun)**: Learning phase with losses - developing strategy
@@ -18,17 +18,17 @@ This dashboard tells your **CLEAN** derivatives trading story:
 
 ---
 
-## 🎯 Why This Version is Better
+## Why This Version is Better
 
-✅ **Clean narrative** - No emotional trading, no Groww mess  
-✅ **Single platform** - Only Kotak Neo (professional)  
-✅ **Single segment** - Only Derivatives (focused)  
-✅ **Clear story** - Learning → Systematic → Profitable  
-✅ **Strong metrics** - 100% Q2 win rate, 369% improvement  
+**Clean narrative** - No emotional trading, no Groww mess  
+**Single platform** - Only Kotak Neo (professional)  
+**Single segment** - Only Derivatives (focused)  
+**Clear story** - Learning → Systematic → Profitable  
+**Strong metrics** - 100% Q2 win rate, 369% improvement  
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -48,7 +48,7 @@ python -c "import pandas; import matplotlib; import seaborn; print('Ready!')"
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Run the Dashboard Generator
 
@@ -80,7 +80,7 @@ trading_dashboard/
 
 ---
 
-## 📊 Your Trading Data (Kotak Neo Derivatives)
+## Your Trading Data (Kotak Neo Derivatives)
 
 ### Summary
 - **Net P&L**: ₹12,592.19
@@ -96,9 +96,9 @@ trading_dashboard/
 | Apr 2025 | -₹5,536 | Learning | Loss |
 | May 2025 | ₹0 | - | No Trades |
 | Jun 2025 | -₹5,303 | Learning | Loss |
-| **Jul 2025** | **+₹9,834** | **Systematic** | **Profit** ✅ |
-| **Aug 2025** | **+₹13,258** | **Systematic** | **Profit** ✅ |
-| **Sep 2025** | **+₹6,060** | **Systematic** | **Profit** ✅ |
+| **Jul 2025** | **+₹9,834** | **Systematic** | **Profit** |
+| **Aug 2025** | **+₹13,258** | **Systematic** | **Profit** |
+| **Sep 2025** | **+₹6,060** | **Systematic** | **Profit** |
 | Oct 2025 | -₹3,492 | Normal | Loss |
 
 ### Quarterly Performance
@@ -111,7 +111,7 @@ trading_dashboard/
 
 ---
 
-## 🎤 Interview Talking Points
+## Interview Talking Points
 
 ### The Clean Narrative
 
@@ -128,7 +128,7 @@ trading_dashboard/
 
 ---
 
-## 📈 Key Metrics
+## Key Metrics
 
 - **Net P&L**: ₹12,592.19
 - **Total Turnover**: ₹1,98,598.13
@@ -144,7 +144,7 @@ trading_dashboard/
 
 ---
 
-## 🔧 Project Structure
+## Project Structure
 
 ```
 trading_dashboard/
@@ -162,7 +162,7 @@ trading_dashboard/
 
 ---
 
-## 💡 Tips for Tomorrow's Interview
+## Tips for Tomorrow's Interview
 
 1. **Open the HTML report** before the interview - know it inside out
 2. **Key message**: "Learning → Systematic → Profitable (369% improvement)"
@@ -176,36 +176,36 @@ trading_dashboard/
 
 ---
 
-## 🔥 What Makes This Story Strong
+## What Makes This Story Strong
 
-✅ **No distractions** - Only derivatives, one platform  
-✅ **Clear evolution** - Learning → Systematic → Profitable  
-✅ **Quantifiable improvement** - 369% Q1 to Q2  
-✅ **Consistency** - 3 consecutive wins in Q2  
-✅ **Self-awareness** - Recognized weakness, adapted  
-✅ **Professional** - Clean data, focused strategy  
+**No distractions** - Only derivatives, one platform  
+**Clear evolution** - Learning → Systematic → Profitable  
+**Quantifiable improvement** - 369% Q1 to Q2  
+**Consistency** - 3 consecutive wins in Q2  
+**Self-awareness** - Recognized weakness, adapted  
+**Professional** - Clean data, focused strategy  
 
 ---
 
-## 🎯 Interview Strategy
+## Interview Strategy
 
 ### DO:
-- ✅ Lead with Q2 systematic success
-- ✅ Show 369% improvement as proof of learning
-- ✅ Emphasize 100% Q2 win rate
-- ✅ Talk about data-driven decision making
-- ✅ Show discipline and consistency
+- Lead with Q2 systematic success
+- Show 369% improvement as proof of learning
+- Emphasize 100% Q2 win rate
+- Talk about data-driven decision making
+- Show discipline and consistency
 
 ### DON'T:
-- ❌ Apologize for Q1 losses (it's "learning phase")
-- ❌ Mention other platforms or emotional trading
-- ❌ Get defensive about overall net P&L
-- ❌ Overcomplicate with too many details
-- ❌ Forget your key numbers
+- Apologize for Q1 losses (it's "learning phase")
+- Mention other platforms or emotional trading
+- Get defensive about overall net P&L
+- Overcomplicate with too many details
+- Forget your key numbers
 
 ---
 
-## 🚀 Running the Dashboard
+## Running the Dashboard
 
 ```bash
 # Install dependencies
@@ -222,7 +222,7 @@ python main.py
 
 ---
 
-## 📞 Before Interview Checklist
+## Before Interview Checklist
 
 - [ ] Run `python main.py` successfully
 - [ ] Open and review HTML report
@@ -234,7 +234,7 @@ python main.py
 
 ---
 
-## 🎊 The Bottom Line
+## The Bottom Line
 
 **You have a clean story of systematic trading evolution:**
 - Started with learning (Q1 losses)
@@ -243,7 +243,7 @@ python main.py
 - Improved performance by 369%
 - Demonstrated data-driven mindset
 
-**This is EXACTLY what Axxela wants to see!** 🔥
+**This is EXACTLY what Axxela wants to see!** 
 
 ---
 
